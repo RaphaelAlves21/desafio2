@@ -1,0 +1,20 @@
+#fundo{background-color: #FEFEE3; width:  1350px; height: 1350px; }
+
+a {color: #D68C45;text-decoration: none;}
+a:hover {color: #2C6E49;}
+
+#borda1 {width: 400px; color: #FEFEE3;border: #FEFEE3 5px dotted;border: radius 15px;float: left; ;}     
+#subtitulo {font-size:  30px; text-align:center;color: #2C6E49;float: left;margin: 30px;}
+   
+
+#paragrafo1 {font-size: 20px; text-align: justify;color: #D68C45;float: left;text-indent: 30px;}
+     
+     #video {float: left;padding: 0%;margin: 45px;}
+
+.caixatexto {float: center; border: #FEFEE3 5px dotted;width: 900px;height: 500px;}
+.comoajudar {font-size: 40px;text-align: justify;color: #2C6E49;}
+.paragrafo2 {font-size: 20px; text-align: justify;color: #D68C45;float: left;text-indent: 30px;}
+.paragrafo3 {font-size: 20px; text-align: justify;color: #D68C45;float: left;text-indent: 30px;}
+.paragrafo4 {font-size: 20px; text-align: justify;color: #D68C45;float: left;text-indent: 30px;}
+.paragrafo5 {font-size: 20px; text-align: justify;color: #D68C45;float: left;text-indent: 30px;}
+.paragrafo6 {font-size: 20px; text-align: justify;color: #D68C45;float: left;text-indent: 30px;}
